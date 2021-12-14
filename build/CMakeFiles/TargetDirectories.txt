@@ -1,0 +1,4 @@
+/home/zhengzhe/proj/HttpServer/build/CMakeFiles/rebuild_cache.dir
+/home/zhengzhe/proj/HttpServer/build/CMakeFiles/edit_cache.dir
+/home/zhengzhe/proj/HttpServer/build/CMakeFiles/HttpServer.dir
+/home/zhengzhe/proj/HttpServer/build/CMakeFiles/HttpServer_autogen.dir

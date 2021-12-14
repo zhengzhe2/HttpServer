@@ -1,0 +1,77 @@
+{
+	"BUILD_DIR" : "/home/zhengzhe/proj/HttpServer/build/HttpServer_autogen",
+	"CMAKE_BINARY_DIR" : "/home/zhengzhe/proj/HttpServer/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/zhengzhe/proj/HttpServer/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/zhengzhe/proj/HttpServer",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/zhengzhe/proj/HttpServer",
+	"HEADERS" : 
+	[
+		[
+			"/home/zhengzhe/proj/HttpServer/HttpServer.h",
+			"Mu",
+			"EWIEGA46WW/moc_HttpServer.cpp"
+		],
+		[
+			"/home/zhengzhe/proj/HttpServer/mongoose.h",
+			"Mu",
+			"EWIEGA46WW/moc_mongoose.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/zhengzhe/proj/HttpServer/build/HttpServer_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/zhengzhe/proj/HttpServer/build/HttpServer_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/zhengzhe/proj/HttpServer/build",
+		"/home/zhengzhe/proj/HttpServer",
+		"/opt/Qt5.9.9/5.9.9/gcc_64/include",
+		"/opt/Qt5.9.9/5.9.9/gcc_64/include/QtWidgets",
+		"/opt/Qt5.9.9/5.9.9/gcc_64/include/QtGui",
+		"/opt/Qt5.9.9/5.9.9/gcc_64/include/QtCore",
+		"/opt/Qt5.9.9/5.9.9/gcc_64/mkspecs/linux-g++",
+		"/usr/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/g++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/zhengzhe/proj/HttpServer/build/HttpServer_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/zhengzhe/proj/HttpServer/build/CMakeFiles/HttpServer_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/opt/Qt5.9.9/5.9.9/gcc_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/zhengzhe/proj/HttpServer/build/CMakeFiles/HttpServer_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/zhengzhe/proj/HttpServer/HttpServer.cpp", "Mu" ],
+		[ "/home/zhengzhe/proj/HttpServer/main.cpp", "Mu" ],
+		[ "/home/zhengzhe/proj/HttpServer/mongoose.c", "Mu" ]
+	],
+	"VERBOSITY" : 0
+}
